@@ -1,0 +1,37 @@
+/* GENERAL */
+.paper {
+    padding: 1rem;
+}
+.c-align {
+    text-align: center;
+}
+.mright-half {
+    margin-right: .5rem;
+}
+.center-vert {
+    display: flex;
+    align-items: center;
+}
+.center-hor {
+    display: flex;
+    justify-content: center;
+}
+.f-width {
+    width: 100%;
+}
+/* LOGIN */
+.login-paper {
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 4rem;
+    min-height: 400px;
+}
+.brand-img {
+    height: 2rem;
+    width: 2rem;
+}
+.login-form {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
